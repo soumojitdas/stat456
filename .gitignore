@@ -1,0 +1,36 @@
+# ========================================
+# IGNORE EVERYTHING BY DEFAULT
+# ========================================
+*
+
+# ========================================
+# ALLOW THESE FILES
+# ========================================
+!.gitignore
+!.nojekyll
+!README.md
+
+# ========================================
+# LECTURE SLIDES (HTML only, no source files)
+# ========================================
+!lecture-slides/
+
+# Lecture 1: MGFs and Transformations
+!lecture-slides/Lecture01_MGFs_Transformations.html
+!lecture-slides/Lecture01_MGFs_Transformations_files/
+!lecture-slides/Lecture01_MGFs_Transformations_files/**
+
+# Lecture 2: Sampling Distributions
+!lecture-slides/Lecture02_Sampling_Distributions.html
+!lecture-slides/Lecture02_Sampling_Distributions_files/
+!lecture-slides/Lecture02_Sampling_Distributions_files/**
+
+# Lecture 3: Order Statistics (uncomment when ready)
+# !lecture-slides/Lecture03_Order_Statistics.html
+# !lecture-slides/Lecture03_Order_Statistics_files/
+# !lecture-slides/Lecture03_Order_Statistics_files/**
+
+# Lecture 4: Sufficiency (uncomment when ready)
+# !lecture-slides/Lecture04_Sufficiency.html
+# !lecture-slides/Lecture04_Sufficiency_files/
+# !lecture-slides/Lecture04_Sufficiency_files/**

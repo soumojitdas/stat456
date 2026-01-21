@@ -4,8 +4,6 @@ Lecture slides for STAT 456, Spring 2026.
 
 ## Slides
 
-### Week 1 (Jan 13 & 15): Foundations
-
 | Lecture | Topic | Link |
 |---------|-------|------|
 | 1 | Review: MGFs, Transformations, Common Distributions | [View](https://soumojitdas.github.io/stat456/lecture-slides/Lecture01_MGFs_Transformations.html) |
